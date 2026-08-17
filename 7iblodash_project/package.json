@@ -1,0 +1,19 @@
+{
+  "name": "7iblodash_project",
+  "version": "1.0.0",
+  "description": "This is a Real World Practical Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "lodash",
+    "npm package"
+  ],
+  "author": "Mohammad Ibrahim",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
